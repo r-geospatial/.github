@@ -1,12 +1,8 @@
-## Hi there 👋
+# Welcome
 
-<!--
+![scii205-splash](https://github.com/user-attachments/assets/badd48cc-1416-4233-9477-6de21f004cd4)
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Welcome to the online home for *Introductory Geospatial Analysis*. This course offers a comprehensive introduction to the theory and practice of Geographic Information Systems (GIS) and geospatial analysis, equipping students with essential skills for solving fundamental geospatial problems.
+
+At the core of this course are hands-on practical exercises built around the **R statistical language**, enabling students to develop and apply key geo-analytical skills. Using a problem-based learning approach, students will work both individually and collaboratively to tackle real-world geospatial challenges with open-source tools and technologies.
